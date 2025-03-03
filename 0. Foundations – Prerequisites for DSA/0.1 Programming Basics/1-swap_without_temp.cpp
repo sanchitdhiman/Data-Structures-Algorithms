@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// Demonstrates swapping two integer variables without using a temporary variable
 int main() {
     int a = 5;
     int b = 10;
